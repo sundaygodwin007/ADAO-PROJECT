@@ -79,12 +79,17 @@
     text-decoration: none;
     color: #fff;
     background-color: rgb(212, 179, 94);
-    padding: 1rem 10rem;
+    padding: 1rem 5rem;
     font-size: 1.2rem;
   }
 
   article .contact-hotel form h3 a:hover {
     background-color: rgb(34, 45, 81);
+  }
+
+  article input,
+  textarea {
+    background-color: #fff;
   }
 }
 
@@ -180,5 +185,10 @@
 
   article .contact-hotel form h3 a:hover {
     background-color: rgb(34, 45, 81);
+  }
+
+  article input,
+  textarea {
+    background-color: #fff;
   }
 }
