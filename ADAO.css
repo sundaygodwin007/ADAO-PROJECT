@@ -3,6 +3,17 @@
     font-family: "Josefin Sans", sans-serif;
   }
 
+  nav .navbar-nav {
+    text-align: center;
+    background-color: #fff;
+    width: 100%;
+  }
+
+  .navbar-nav {
+    position: fixed;
+    z-index: 9;
+  }
+
   header {
     text-align: center;
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),
